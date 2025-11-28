@@ -1,28 +1,66 @@
-# CaveOfMiatoll < main >
+# CaveOfMiatoll < HyperOS 2* (Android 15) >
 
-A centralized repository for organizing Miatoll ROM ports with proper version control, clean changelog tracking, and documented fixes and improvements.
-Check all branches to explore the available ports.
+A dedicated Branch for **HyperOS A15 (Global) ports**, providing organized releases, proper changelog tracking, and documented fixes or improvements.
 
-## Branch Structure
-Each branch contains a separate ROM port with its own changelog, fixes, and device-specific adjustments.
+## Changelogs
+`28 Nov 2025` `Latest`
+- Updated the security patch to November 2025. Increased system security.
 
-- `hyperos-*` : HyperOS-based ports  
-<!-- - `coloros-*` : ColorOS-based ports  
-- `oxygenos-*` : OxygenOS-based ports  
- -->
+`05 Nov 2025`
+- Version Upstream to OS2.0.207.0.VLCEUXM.
+- /data is fbeV2 Encrypted.
+- NFC Enhancement for Joyeuse.
+- CN HyperOS About Phone Style.
+- HeyGoogle Issue Fixed.
+- Updated the security patch to October 2025. Increased system security.
+
+`16 Oct 2025`
+- Version Upstream to OS2.0.206.0.VLCEUXM.
+- Screenshot Frame Added.
+- Latest Security Patch.
+
+`04 Sep 2025`
+- Spoofing features: Unlimited Google Photos storage, Game FPS boosts, and more.
+- Secure flag bypass.
+- Miui Dialer, Contact and Messages.
+- Initial Release
+
+
+## Recommended Resources
+
+* **Recovery (OrangeFox)**
+:
+  [R11.3 FbeV2](https://orangefox.download/device/5fec5d694be4808bb3b0b7a2)
+
+## Additional Changes
+- Spoofing features: Unlimited Google Photos storage, Game FPS boosts, and more.
+- Secure flag bypass.
+- Screenshot Frame Added.
+
+## Installation Steps
+- Boot into Custom Recovery (e.g., OrangeFox).
+- Wipe Cache & Dalvik.
+- Flash the ROM ZIP file.
+- Format Data.
+- Reboot & enjoy!
+
 
 ## Community
 
-Join the community channel on Telegram: **@miatollcave**
+Updates and announcements:
+**[@miatollcave](https://t.me/miatollcave)**
+
 
 ## Support
 
-For ROM-related assistance, use the support group on Telegram: **@miatollcavesupport**
+ROM-related questions or debugging help:
+**[@miatollcavesupport](https://t.me/miatollcavesupport)**
 
 ## Want to Support?
 
-Star this repository to stay updated and help the project grow.
+Star the repository to stay updated and help keep the project active.
 
 ## Disclaimer
-Flash at your own risk.  
-The maintainers are not responsible for bricked devices, lost data, or any issues caused by improper installation.
+
+Flashing custom ROMs always carries risk.
+You are responsible for your device, data, and any issues caused by incorrect usage or modifications.
