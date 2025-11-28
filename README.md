@@ -1,6 +1,6 @@
 # CaveOfMiatoll < main >
 
-A centralized repository for organizing Miatoll ROM ports with proper version control, clean changelog tracking, and documented fixes and improvements.
+A centralized repository for organizing `Miatoll (Redmi Note 9 Pro / Pro Max / 9S / Poco M2 Pro)` ROM ports with proper version control, clean changelog tracking, and documented fixes and improvements.
 Check all branches to explore the available ports.
 
 ## Branch Structure
