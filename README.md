@@ -13,11 +13,14 @@ Each branch contains a separate ROM port with its own changelog, fixes, and devi
 
 ## Community
 
-Join the community channel on Telegram: **@miatollcave**
+Updates and announcements:
+**[@miatollcave](https://t.me/miatollcave)**
+
 
 ## Support
 
-For ROM-related assistance, use the support group on Telegram: **@miatollcavesupport**
+ROM-related questions or debugging help:
+**[@miatollcavesupport](https://t.me/miatollcavesupport)**
 
 ## Want to Support?
 
