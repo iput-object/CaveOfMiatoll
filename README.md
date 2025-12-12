@@ -1,29 +1,14 @@
 # CaveOfMiatoll < HyperOS 2* (Android 15) >
 
-A dedicated Branch for **HyperOS A15 (Global) ports**, providing organized releases, proper changelog tracking, and documented fixes or improvements.
+A dedicated Branch for **HyperOS A15 (China) ports**, providing organized releases, proper changelog tracking, and documented fixes or improvements.
 
 ## Changelogs
-`28 Nov 2025` `Latest`
-- Updated the security patch to November 2025. Increased system security.
-
-`05 Nov 2025`
-- Version Upstream to OS2.0.207.0.VLCEUXM.
-- /data is fbeV2 Encrypted.
-- NFC Enhancement for Joyeuse.
-- CN HyperOS About Phone Style.
-- HeyGoogle Issue Fixed.
-- Updated the security patch to October 2025. Increased system security.
-
-`16 Oct 2025`
-- Version Upstream to OS2.0.206.0.VLCEUXM.
-- Screenshot Frame Added.
-- Latest Security Patch.
-
-`04 Sep 2025`
+`13 Dec 2025` `Latest`
 - Spoofing features: Unlimited Google Photos storage, Game FPS boosts, and more.
 - Secure flag bypass.
-- Miui Dialer, Contact and Messages.
-- Initial Release
+- Notification Delay fix.
+- Google PlayStore and some google Services.
+- Initial Release.
 
 
 ## Recommended Resources
