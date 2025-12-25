@@ -3,7 +3,11 @@
 A dedicated Branch for **HyperOS A15 (Global) ports**, providing organized releases, proper changelog tracking, and documented fixes or improvements.
 
 ## Changelogs
-`28 Nov 2025` `Latest`
+`26 Dec 2025` `Latest`
+- Optimization: System stability Fix: Errors occurred in some cases.
+- Revert some NFC changes for Fixing NFC issue from Last Build.
+
+`28 Nov 2025`
 - Updated the security patch to November 2025. Increased system security.
 
 `05 Nov 2025`
