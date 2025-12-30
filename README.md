@@ -3,7 +3,13 @@
 A dedicated Branch for **HyperOS A15 (China) ports**, providing organized releases, proper changelog tracking, and documented fixes or improvements.
 
 ## Changelogs
-`13 Dec 2025` `Latest`
+`30 Dec 2025` `Latest`
+
+- Updated the security patch to August 2025. Increased system security.
+- Optimization: System stability Fix: Errors occurred in some cases.
+- Revert some NFC changes for Fixing NFC issue from Last Build.
+  
+`13 Dec 2025`
 - Spoofing features: Unlimited Google Photos storage, Game FPS boosts, and more.
 - Secure flag bypass.
 - Notification Delay fix.
